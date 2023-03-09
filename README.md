@@ -3,8 +3,8 @@ Java plugin that handles different roleplay mechanics for Spigot API
 
 ### Prerequisites
 
-> You must know how to compile java code into a .jar app.
-> Know how to start and run a spigot server
+- You must know how to compile java code into a .jar app.
+- Know how to start and run a spigot server
 
 ### How to use
 

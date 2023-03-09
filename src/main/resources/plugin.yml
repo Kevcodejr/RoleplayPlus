@@ -1,0 +1,11 @@
+name: RoleplayPlus
+version: '${project.version}'
+main: com.tropaeo.roleplayplus.RoleplayPlus
+api-version: 1.16
+commands:
+  marry:
+    description: Marriage Commands
+    usage: /command
+    aliases:
+      - marry
+      - marriage
